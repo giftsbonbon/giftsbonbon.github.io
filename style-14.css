@@ -1,0 +1,35 @@
+div.reviews-box div.item{
+	vertical-align: top;
+}
+div.reviews-box div.item div.text-block{
+	vertical-align: top;
+}
+
+div.reviews-box div.item div.text-block div.title{
+	color: #b7b7b7;
+	margin-top: 10px;
+}
+@media (min-width: 1200px){
+	.content .cnt {
+		margin-right:0px !important;
+	}
+}
+@media (max-width: 768px){
+	.blog-box .text-block {
+		vertical-align: top !important;
+	}
+
+	.reviews-box .item{
+		padding-left: 0px !important;
+	}
+	.reviews-box .photo-block{
+		float: none  !important;
+		width:100%  !important;
+		margin-left:0px   !important;;
+		text-align: center   !important;;
+	}
+}
+
+
+
+

@@ -1,0 +1,11 @@
+div.title a.sort-dir{
+	display: inline !important;
+	text-decoration: underline;
+}
+div.title.sort{
+	width:350;
+}
+
+div.title.present-search{
+	font-size: 25px;
+}
